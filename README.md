@@ -1,3 +1,5 @@
+<h1 align="center">Hola 👋, Soy Gonzalo</h1>
+
 # 💫 About Me:
 👨‍💻 Desarrollador Backend Java<br><br>🌱 Spring Boot para aplicaciones web<br><br>💡 Aprendiendo microservicios con Spring Cloud<br><br>🎓 Estudiante de Desarrollo de Software en ISTEA<br><br>🚀 Enfocado en mi crecimiento académico y profesional<br><br>🔍 Buscando oportunidades para aplicar lo aprendido y seguir mejorando<br><br>📩 Contacto: gonzalo200696@gmail.com | www.linkedin.com/in/silva-gonzalo <br><br>
 
