@@ -2,9 +2,6 @@
 👨‍💻 Desarrollador Backend Java<br><br>🌱 Spring Boot para aplicaciones web<br><br>💡 Aprendiendo microservicios con Spring Cloud<br><br>🎓 Estudiante de Desarrollo de Software en ISTEA<br><br>🚀 Enfocado en mi crecimiento académico y profesional<br><br>🔍 Buscando oportunidades para aplicar lo aprendido y seguir mejorando<br><br>📩 Contacto: gonzalo200696@gmail.com | www.linkedin.com/in/silva-gonzalo
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/silva-gonzalo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gonzalo200696@gmail.com) 
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)</br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</br>
